@@ -4,6 +4,9 @@
 # build folders
 build/
 
+# test files
+test_input.txt
+
 # Object files
 *.o
 *.ko
